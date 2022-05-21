@@ -1,0 +1,166 @@
+main>.Baner
+{
+    width: 100%;
+    background-color: #00b300;
+    font-family: Lucida Handwriting;
+    font-style: italic;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-transform: capitalize;
+    font-size: 150%;
+    text-align: center;
+    padding-bottom: 12px;
+}
+main>.Baner>h1:first-child
+{
+    font-size: 200%;
+    margin: 0;
+    word-spacing: 10px;
+    padding-bottom: 15px;
+}
+main>.Baner>form>div
+{
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    justify-content: center;
+}
+main>.Baner>form>div>input
+{
+    border-radius: 5px;
+    margin:0 20px;
+    padding: 0;
+    height: 26px;
+    border:none;
+}
+main>.Baner>form>div>button
+{
+    margin:0 20px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 80%;
+    background-color: lightgreen;
+    border:none;
+}
+main>.Baner>form>div>button:hover
+{
+    background-color: darkgreen;
+}
+main>.Baner>p
+{
+    margin-top:0;
+    margin-bottom: 5px;
+}
+main>.Baner>button
+{
+    margin:0 20px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 80%;
+    background-color: lightgreen;
+    border:none;
+}
+main>.Baner>button:hover
+{
+    background-color: darkgreen;
+}
+main>section:last-child
+{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+main>section:last-child>article:first-child
+{
+    background-color: whitesmoke;
+}
+main>section:last-child>article:first-child>h1
+{
+    padding-left: 20%;
+    font-size: 250%;
+}
+main>section:last-child>article:first-child>article
+{
+    margin: 40px;
+    font-size: large;
+}
+main>section:last-child>article:first-child>article>div
+{
+    background-color: lightgreen;
+    padding: 30px;
+    margin:20px;
+    border-radius: 30px;
+}
+main>section:last-child>article:first-child>article>div>a
+{
+    color: red;
+    font-size: 160%;
+    text-decoration: underline;
+}
+main>section:last-child>article:first-child>article>div>a:hover
+{
+    cursor: pointer;
+}
+
+main>section:last-child>article:last-child
+{
+    background-color: whitesmoke;
+    text-align: center;
+}
+main>section:last-child>article:last-child>h1
+{
+    margin: 5%;
+    margin-top: 50px;
+    font-size: 250%;
+    font-style: italic;
+    font-family: Brush Script MT;
+}
+
+@media only screen and (max-width: 1100px)
+{
+    main>section:last-child
+    {
+        grid-template-columns: auto;
+    }
+}
+@media only screen and (max-width: 800px)
+{
+    main>section:last-child>article:first-child>article>div>a
+    {
+        font-size: 100%;
+    }
+    main>.Baner>form>div
+    {
+        grid-template-columns: 200px 200px 200px;
+    }
+}
+@media only screen and (max-width: 580px)
+{
+    main>.Baner>form>div
+    {
+        grid-template-columns: 250px;
+    }
+    main>.Baner>form>div>input
+    {
+        margin:10px;
+    }
+    main>.Baner>form>div>button
+    {
+        margin-bottom:10px;
+    }
+    main>.Baner>form>small
+    {
+        font-size: 60%;
+    }
+}
+@media only screen and (max-width: 450px)
+{
+    main>section:last-child>article:first-child>article>div
+    {
+        font-size: 80%;
+    }
+    main>section:last-child>article:first-child>article>div>a
+    {
+        font-size: 80%;
+    }
+}

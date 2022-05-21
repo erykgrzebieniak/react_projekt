@@ -1,0 +1,48 @@
+.godz
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: whitesmoke;
+}
+.godz>article
+{
+    text-align: center;
+    color: black;
+}
+.godz>article:first-child
+{
+    grid-column: 1 / 7;
+}
+.godz>article:first-child>h2
+{
+    margin: 0;
+    margin-top: 10px;
+    font-size: 200%;
+}
+.godz>article>h4
+{
+    margin: 10px 0;
+}
+
+@media only screen and (max-width: 800px)
+{
+    .godz
+    {
+        grid-template-columns: auto auto auto;
+    }
+    .godz>article:first-child
+    {
+        grid-column: 1 / 4;
+    }
+}
+@media only screen and (max-width: 450px)
+{
+    .godz
+    {
+        grid-template-columns: auto auto;
+    }
+    .godz>article:first-child
+    {
+        grid-column: 1 / 3;
+    }
+}

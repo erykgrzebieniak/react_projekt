@@ -1,0 +1,122 @@
+[
+    {
+        "id_ksiazki":20,
+        "tytul_ksiazki": "Opowieść wigilijna",
+        "autor_ksiazki": "Charles Dickens",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":19,
+        "tytul_ksiazki": "Zemsta",
+        "autor_ksiazki": "Aleksander Fredro",
+        "status_ksiazki": 2
+    },
+    {
+        "id_ksiazki":18,
+        "tytul_ksiazki": "Kamienie na szaniec",
+        "autor_ksiazki": "Aleksander Kamiński",
+        "status_ksiazki": 2
+    },
+    {
+        "id_ksiazki":17,
+        "tytul_ksiazki": "Mały Książę",
+        "autor_ksiazki": "Antoine de Saint-Exupéry",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":16,
+        "tytul_ksiazki": "Quo vadis",
+        "autor_ksiazki": "Henryk Sienkiewicz",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":15,
+        "tytul_ksiazki": "Balladyna",
+        "autor_ksiazki": "Juliusz Słowacki",
+        "status_ksiazki": 2
+    },
+    {
+        "id_ksiazki":14,
+        "tytul_ksiazki": "Syzyfowe prace",
+        "autor_ksiazki": "Stefan Żeromski",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":13,
+        "tytul_ksiazki": "Dywizjon 303",
+        "autor_ksiazki": "Arkady Fiedler",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":12,
+        "tytul_ksiazki": "Krzyżacy",
+        "autor_ksiazki": "Henryk Sienkiewicz",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":11,
+        "tytul_ksiazki": "Katarynka",
+        "autor_ksiazki": "Bolesław Prus",
+        "status_ksiazki": 3
+    },
+    {
+        "id_ksiazki":10,
+        "tytul_ksiazki": "Chłopcy z Placu Broni",
+        "autor_ksiazki": "Ferenc Molnár",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":9,
+        "tytul_ksiazki": "Opowieści z Narnii",
+        "autor_ksiazki": "Clive Staples Lewis",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":8,
+        "tytul_ksiazki": "Skąpiec",
+        "autor_ksiazki": "Molier",
+        "status_ksiazki": 3
+    },
+    {
+        "id_ksiazki":7,
+        "tytul_ksiazki": "Kordian",
+        "autor_ksiazki": "Juliusz Słowacki",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":6,
+        "tytul_ksiazki": "Lalka",
+        "autor_ksiazki": "Bolesław Prus",
+        "status_ksiazki": 2
+    },
+    {
+        "id_ksiazki":5,
+        "tytul_ksiazki": "Potop",
+        "autor_ksiazki": "Henryk Sienkiewicz",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":4,
+        "tytul_ksiazki": "Zbrodnia i kara",
+        "autor_ksiazki": "Fiodor Dostojewski",
+        "status_ksiazki": 2
+    },
+    {
+        "id_ksiazki":3,
+        "tytul_ksiazki": "Wesele",
+        "autor_ksiazki": "Stanisław Wyspiański",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":2,
+        "tytul_ksiazki": "Chłopi",
+        "autor_ksiazki": "Władysław Stanisław Reymont",
+        "status_ksiazki": 1
+    },
+    {
+        "id_ksiazki":1,
+        "tytul_ksiazki": "Dżuma",
+        "autor_ksiazki": "Albert Camus",
+        "status_ksiazki": 2
+    }
+]

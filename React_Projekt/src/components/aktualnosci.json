@@ -1,0 +1,32 @@
+[
+    {
+        "id_aktualnosci":5,
+        "tytul": "Przekazanie komputerów",
+        "data": "18 05 2022",
+        "tresc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quaerat itaque, totam voluptatum dolor at esse nostrum alias cum saepe suscipit! Ad quod eos voluptatibus magni ipsa voluptatum repellendus veniam."
+    },
+    {
+        "id_aktualnosci":4,
+        "tytul": "Kradzież książek",
+        "data": "22 04 2022",
+        "tresc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quaerat itaque, totam voluptatum dolor at esse nostrum alias cum saepe suscipit! Ad quod eos voluptatibus magni ipsa voluptatum repellendus veniam."
+    },
+    {
+        "id_aktualnosci":3,
+        "tytul": "Wizyta Prezydenta Miasta",
+        "data": "03 04 2022",
+        "tresc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quaerat itaque, totam voluptatum dolor at esse nostrum alias cum saepe suscipit! Ad quod eos voluptatibus magni ipsa voluptatum repellendus veniam."
+    },
+    {
+        "id_aktualnosci":2,
+        "tytul": "Książki dla domu dziecka",
+        "data": "14 03 2022",
+        "tresc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quaerat itaque, totam voluptatum dolor at esse nostrum alias cum saepe suscipit! Ad quod eos voluptatibus magni ipsa voluptatum repellendus veniam."
+    },
+    {
+        "id_aktualnosci":1,
+        "tytul": "Nowość książki online",
+        "data": "01 03 2022",
+        "tresc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quaerat itaque, totam voluptatum dolor at esse nostrum alias cum saepe suscipit! Ad quod eos voluptatibus magni ipsa voluptatum repellendus veniam."
+    }
+]

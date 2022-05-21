@@ -1,0 +1,23 @@
+[
+    {
+        "uzytkownik": 123,
+        "id": 1,
+        "tyt": "W pustyni i w Puszczy",
+        "aut": "Henryk Sienkiewicz",
+        "st": false
+    },
+    {
+        "uzytkownik": 123,
+        "id": 2,
+        "tyt": "Harry Potter",
+        "aut": "J.K. Rowling",
+        "st": false
+    },
+    {
+        "uzytkownik": 123,
+        "id": 3,
+        "tyt": "Stary człowiek i morze",
+        "aut": "Ernest Hamingway",
+        "st": true
+    }
+]
